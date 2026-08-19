@@ -10,6 +10,14 @@
 >
 > While other sections that you think are relevant may be included, it is mandatory that you include the following sections in the brief, which should be well-formatted:
 
+### Before You Begin
+
+Do not start research or generate the brief until you have all three of the following. If anything is missing, ask for it before proceeding:
+
+1. **Company name**
+2. **Company website URL**
+3. **Link to the job description**
+
 ### Company Overview
 
 This should include the following sections:
