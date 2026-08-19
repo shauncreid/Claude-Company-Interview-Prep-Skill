@@ -1,3 +1,5 @@
+```markdown
+
 # Company Briefing Report — Interview Prep Skill
 
 **Add a company name and job description to generate a detailed executive briefing document to prepare for job interviews.**
@@ -66,5 +68,6 @@ Then provide, per company:
 2. Link to the job description
 
 ## Requirements
+```
 
 - Output is generated as a Word document (`.docx`), named `<Company Name> Executive Brief`.
