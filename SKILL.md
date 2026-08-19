@@ -68,6 +68,6 @@ Then provide, per company:
 2. Link to the job description
 
 ## Requirements
-```
 
 - Output is generated as a Word document (`.docx`), named `<Company Name> Executive Brief`.
+```
