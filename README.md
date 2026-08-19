@@ -1,4 +1,4 @@
-##About
+## About
 
 A Claude skill that generates a detailed, formal executive briefing document to help you prepare for job interviews. Just provide a company name, website URL, and a link to the job description — the skill handles the research and formatting.
 
