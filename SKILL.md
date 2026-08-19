@@ -31,7 +31,7 @@ This section should cover the competitors in the sector and how they stack up ag
 
 ### Risks to Their Business
 
-Please highlight any potential risks, including, but not limited to, supply chain, customer mix, and shifts in technology.
+Highlight any potential risks, including, but not limited to, supply chain, customer mix, and shifts in technology.
 
 ### Questions to Ask
 
