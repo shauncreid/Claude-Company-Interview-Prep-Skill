@@ -1,0 +1,16 @@
+# Changelog
+
+All notable changes to this skill are documented here.
+
+## [1.1.0] - 2026-08-19
+
+### Changed
+- Output format changed from Google Docs to a Word document (`.docx`), since Claude cannot create Google Docs output directly.
+- Removed the requirement to save into a specific Google Drive folder ("Company Briefings"), since not all users have Google Drive connected or want to grant Claude access to it.
+
+## [1.0.0] - 2026-08-19
+
+### Added
+- Initial public release of the skill, converted from personal prompt notes into shareable markdown.
+- Replaced hardcoded personal details ("FSR at Google Cloud") with reusable placeholders: `<current job title>` and `<current employer>`.
+- Documented mandatory sections: Company Overview, Competitive Landscape, Risks to Their Business, Questions to Ask, Questions to Expect, Additional Resources.
