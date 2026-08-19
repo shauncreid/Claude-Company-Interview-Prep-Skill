@@ -78,6 +78,7 @@ Please include:
 ## Requirements
 
 - Output is generated as a Word document (`.docx`), named `<Company Name> Executive Brief`.
+- Prioritize resources like the company website, 10k filings, earnings calls, press releases, and news articles.
 
 ## Changelog
 
